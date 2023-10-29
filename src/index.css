@@ -1,0 +1,14 @@
+.active{
+    background-color: #645fc6;
+    color: white;
+    padding: 5px 14px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.inactive{
+    background-color: #e0e0e0;
+    color: black;
+    padding: 5px 14px;
+    text-decoration: none;
+    border-radius: 5px;
+}
